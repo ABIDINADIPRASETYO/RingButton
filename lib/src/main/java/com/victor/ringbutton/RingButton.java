@@ -22,9 +22,9 @@ import android.view.View;
  * Created by Victor on 2015/4/9.
  */
 public class RingButton extends View {
-    private static final String BASE_COLOR = "#54D2E4";
+    private static final String BASE_COLOR = "#D64F3D";
     private static final int PRESS_RADIUS = 20;
-    private static final int TEXT_SIZE = 22;
+    private static final int TEXT_SIZE = 17;
     private static final int RING_WIDTH = 2;
     private static final int TEXT_DIVIDER = 10;
     private static final int DIVIDE_SIZE = 2;
